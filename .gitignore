@@ -40,3 +40,7 @@ Thumbs.db
 ######################
 app/node_modules
 app/server/lib/mailSetting.js
+.idea/vcs.xml
+.idea/modules.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/Block-Farm.iml
